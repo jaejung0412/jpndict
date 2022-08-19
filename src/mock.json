@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "dict": "日本",
+    "furigana": "にほん",
+    "dict_ko": "일본",
+    "example": "日本は韓国の東にある。",
+    "example_ko": "일본은 한국의 동쪽에 있다.",
+    "completed": false
+  },
+  {
+    "Id": 2,
+    "dict": "日本語",
+    "furigana": "にほんご",
+    "dict_ko": "일본어",
+    "example": "日本語は楽しいです。",
+    "example_ko": "일본어는 재미있습니다",
+    "completed": false
+  },
+  {
+    "Id": 3,
+    "dict": "アヒル",
+    "furigana": "あひる",
+    "dict_ko": "오리",
+    "example": "アヒルはかわいいです。",
+    "example_ko": "오리는 귀엽습니다.",
+    "completed": false
+  }
+]

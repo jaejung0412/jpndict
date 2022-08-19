@@ -1,0 +1,9 @@
+.DictListItem {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+}
+
+.DictListItem-example p {
+  color: rgb(54, 147, 228);
+}
